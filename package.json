@@ -1,0 +1,25 @@
+{
+  "name": "sfk-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedKeet/sfk-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedKeet/sfk-token/issues"
+  },
+  "homepage": "https://github.com/RedKeet/sfk-token#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.4.0"
+  }
+}
